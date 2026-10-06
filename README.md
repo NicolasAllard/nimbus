@@ -59,3 +59,7 @@ The empty-state screen has four clickable example questions. A few others worth 
 
 This is a standard Next.js app (e.g. deployable to Vercel) -- set `OPENAI_API_KEY` and
 `GOOGLE_GENERATIVE_AI_API_KEY` as environment variables on the host; nothing else is required.
+
+## Live deployment link
+
+https://nimbus-nine-bice.vercel.app/
